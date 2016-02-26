@@ -17,7 +17,7 @@ public class GestorDeTareas {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Prueba de calendario");
-        System.out.println("mejoraA");
+        System.out.println("Gestor de tareas");
     }
     
 }
